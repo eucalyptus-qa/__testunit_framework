@@ -6,7 +6,7 @@ Eucalyptus Testunit Framework is designed to run a list of test scripts written 
 
 ## How to Set Up Testunit Environment
 
-On Ubuntu Linux Distribution,
+On **Ubuntu** Linux Distribution,
 
 ### 1. UPDATE THE IMAGE
 
